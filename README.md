@@ -1,5 +1,5 @@
 👽 Sobre Mim
-Oi! Meu nome é João Pedro, moro na Baixada Santista-SP, Brasil.
+- Oi! Meu nome é João Pedro, moro na Baixada Santista-SP, Brasil.
 
 🎓 Formação Acadêmica
 - Tecnólogo em Análise e Desenvolvimento de Sistemas.
@@ -11,4 +11,4 @@ Oi! Meu nome é João Pedro, moro na Baixada Santista-SP, Brasil.
 4. Curtos animes, principalmente os de genero shounen.
 
 💻 Linguagens de Programação
-Atualmente estudo Python.
+- Atualmente estudo Python.
